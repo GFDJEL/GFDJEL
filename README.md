@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 | Image  | Title |
 | ------------- | ------------- |
 | 🐈  | Feliot |
-| 🐈‍⬛  | Feliot black  |
+| 🐈‍⬛  | Black Feliot |
